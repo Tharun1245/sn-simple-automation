@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="netapp user" language="en" table="x_75698_netapp_netapp_user">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>netapp user</label>
+            <language>en</language>
+            <name>x_75698_netapp_netapp_user</name>
+            <plural>netapp users</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-26 08:44:47</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>f97c7d694f897700d55eb2718110c71d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>netapp user</sys_name>
+            <sys_package display_value="netapp" source="x_75698_netapp">c2fbf96d4f497700d55eb2718110c7ad</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="netapp">c2fbf96d4f497700d55eb2718110c7ad</sys_scope>
+            <sys_update_name>sys_documentation_x_75698_netapp_netapp_user__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-26 08:44:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
